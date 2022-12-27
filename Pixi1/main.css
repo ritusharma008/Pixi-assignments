@@ -32,9 +32,9 @@
 } */
 
 #but {
-    border: red;
+    border-radius: 20px solid blue;
     color: white;
-    background-color: blueviolet;
+    background-color: black;
     padding: 25px 52px;
     text-align: center;
     text-decoration: none;
