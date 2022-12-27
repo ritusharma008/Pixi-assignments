@@ -6,7 +6,7 @@ const game = new PIXI.Application({
 document.getElementById("game").append(game.view);
 loadAssets([
   { name: "back", url:"for.png" },
-  { name: "front", url: "assets/card.jpg" },
+  { name: "front", url: "assets/card.webp" },
 ], start);
 //------------------------------
 const pBar = document.getElementById("bar");
